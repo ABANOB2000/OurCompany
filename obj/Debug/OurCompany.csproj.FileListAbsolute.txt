@@ -1,0 +1,59 @@
+C:\Users\El AMIR TECH\Desktop\OurCompany\OurCompany\bin\Debug\OurCompany.exe.config
+C:\Users\El AMIR TECH\Desktop\OurCompany\OurCompany\bin\Debug\OurCompany.exe
+C:\Users\El AMIR TECH\Desktop\OurCompany\OurCompany\bin\Debug\OurCompany.pdb
+C:\Users\El AMIR TECH\Desktop\OurCompany\OurCompany\obj\Debug\OurCompany.csprojResolveAssemblyReference.cache
+C:\Users\El AMIR TECH\Desktop\OurCompany\OurCompany\obj\Debug\OurCompany.Properties.Resources.resources
+C:\Users\El AMIR TECH\Desktop\OurCompany\OurCompany\obj\Debug\OurCompany.csproj.GenerateResource.Cache
+C:\Users\El AMIR TECH\Desktop\OurCompany\OurCompany\obj\Debug\OurCompany.exe
+C:\Users\El AMIR TECH\Desktop\OurCompany\OurCompany\obj\Debug\OurCompany.pdb
+C:\Users\El AMIR TECH\Desktop\OurCompany\OurCompany\obj\Debug\OurCompany.Password.resources
+C:\Users\El AMIR TECH\Desktop\OurCompany\OurCompany\obj\Debug\OurCompany.Form1.resources
+C:\Users\El AMIR TECH\Desktop\OurCompany\OurCompany\obj\Debug\OurCompany.Mian.resources
+C:\Users\El AMIR TECH\Desktop\OurCompany\OurCompany\obj\Debug\OurCompany.ADD.resources
+C:\Users\El AMIR TECH\Desktop\OurCompany\OurCompany\obj\Debug\OurCompany.ManegarOrEmployee.resources
+C:\Users\El AMIR TECH\Desktop\OurCompany\OurCompany\obj\Debug\OurCompany.deleteform.resources
+C:\Users\El AMIR TECH\Desktop\OurCompany\OurCompany\obj\Debug\OurCompany.updateform.resources
+C:\Users\El AMIR TECH\Desktop\OurCompany\OurCompany\obj\Debug\OurCompany.Form2.resources
+C:\Users\El AMIR TECH\Desktop\OurCompany\OurCompany\obj\Debug\OurCompany.report.resources
+C:\Users\El AMIR TECH\Desktop\OurCompany\OurCompany\obj\Debug\RdlCompile.cache
+C:\Users\El AMIR TECH\Desktop\OurCompany\OurCompany\obj\Debug\RdlCompile.compiled
+E:\c#\New folder\OurCompany\OurCompany\bin\Debug\OurCompany.exe.config
+E:\c#\New folder\OurCompany\OurCompany\obj\Debug\OurCompany.exe
+E:\c#\New folder\OurCompany\OurCompany\obj\Debug\OurCompany.pdb
+E:\c#\New folder\OurCompany\OurCompany\bin\Debug\OurCompany.exe
+E:\c#\New folder\OurCompany\OurCompany\bin\Debug\OurCompany.pdb
+E:\c#\New folder\OurCompany\OurCompany\obj\Debug\OurCompany.csprojResolveAssemblyReference.cache
+E:\c#\New folder\OurCompany\OurCompany\obj\Debug\OurCompany.ADD.resources
+E:\c#\New folder\OurCompany\OurCompany\obj\Debug\OurCompany.deleteform.resources
+E:\c#\New folder\OurCompany\OurCompany\obj\Debug\OurCompany.Form1.resources
+E:\c#\New folder\OurCompany\OurCompany\obj\Debug\OurCompany.Form2.resources
+E:\c#\New folder\OurCompany\OurCompany\obj\Debug\OurCompany.ManegarOrEmployee.resources
+E:\c#\New folder\OurCompany\OurCompany\obj\Debug\OurCompany.Mian.resources
+E:\c#\New folder\OurCompany\OurCompany\obj\Debug\OurCompany.password.resources
+E:\c#\New folder\OurCompany\OurCompany\obj\Debug\OurCompany.Properties.Resources.resources
+E:\c#\New folder\OurCompany\OurCompany\obj\Debug\OurCompany.report.resources
+E:\c#\New folder\OurCompany\OurCompany\obj\Debug\OurCompany.updateform.resources
+E:\c#\New folder\OurCompany\OurCompany\obj\Debug\OurCompany.csproj.GenerateResource.Cache
+E:\c#\New folder\OurCompany\OurCompany\obj\Debug\RdlCompile.cache
+E:\c#\New folder\OurCompany\OurCompany\obj\Debug\RdlCompile.compiled
+E:\c#\New folder\OurCompany\OurCompany\obj\Debug\OurCompany.Form3.resources
+E:\data structure\c#\New folder\OurCompany\OurCompany\bin\Debug\OurCompany.exe.config
+E:\data structure\c#\New folder\OurCompany\OurCompany\obj\Debug\OurCompany.exe
+E:\data structure\c#\New folder\OurCompany\OurCompany\obj\Debug\OurCompany.pdb
+E:\data structure\c#\New folder\OurCompany\OurCompany\bin\Debug\OurCompany.exe
+E:\data structure\c#\New folder\OurCompany\OurCompany\bin\Debug\OurCompany.pdb
+E:\data structure\c#\New folder\OurCompany\OurCompany\obj\Debug\OurCompany.csprojResolveAssemblyReference.cache
+E:\data structure\c#\New folder\OurCompany\OurCompany\obj\Debug\OurCompany.ADD.resources
+E:\data structure\c#\New folder\OurCompany\OurCompany\obj\Debug\OurCompany.deleteform.resources
+E:\data structure\c#\New folder\OurCompany\OurCompany\obj\Debug\OurCompany.Form1.resources
+E:\data structure\c#\New folder\OurCompany\OurCompany\obj\Debug\OurCompany.Form2.resources
+E:\data structure\c#\New folder\OurCompany\OurCompany\obj\Debug\OurCompany.Form3.resources
+E:\data structure\c#\New folder\OurCompany\OurCompany\obj\Debug\OurCompany.ManegarOrEmployee.resources
+E:\data structure\c#\New folder\OurCompany\OurCompany\obj\Debug\OurCompany.Mian.resources
+E:\data structure\c#\New folder\OurCompany\OurCompany\obj\Debug\OurCompany.password.resources
+E:\data structure\c#\New folder\OurCompany\OurCompany\obj\Debug\OurCompany.Properties.Resources.resources
+E:\data structure\c#\New folder\OurCompany\OurCompany\obj\Debug\OurCompany.report.resources
+E:\data structure\c#\New folder\OurCompany\OurCompany\obj\Debug\OurCompany.updateform.resources
+E:\data structure\c#\New folder\OurCompany\OurCompany\obj\Debug\OurCompany.csproj.GenerateResource.Cache
+E:\data structure\c#\New folder\OurCompany\OurCompany\obj\Debug\RdlCompile.cache
+E:\data structure\c#\New folder\OurCompany\OurCompany\obj\Debug\RdlCompile.compiled
